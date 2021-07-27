@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Richard-JL
+- 👀 I’m interested in Computer Science, Music and Cars.
+- 🌱 I’m currently learning Lua.
+- 📫 How to reach me RichardJacquesLouis@gmail.com
